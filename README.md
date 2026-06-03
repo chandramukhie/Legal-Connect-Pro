@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# Legal Connect Pro
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+Legal Connect Pro is a web-based legal practice management system developed as a university software engineering project.
 
-In the project directory, you can run:
+The project was initially planned as a platform that would connect legal professionals and clients on a broader scale. Following discussions during the project development phase, the scope was refined to focus on supporting the day-to-day operations of a private legal firm.
 
-### `npm start`
+The system is intended to simplify administrative and client management tasks by providing a centralized platform for lawyers, staff members, and clients.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Main Features
 
-### `npm test`
+* Client profile management
+* Appointment scheduling
+* Case management
+* Lawyer dashboard
+* Document handling and storage
+* User authentication and authorization
+* Online payment integration (under development)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Frontend
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* React.js
+* HTML
+* CSS
+* JavaScript
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Backend
 
-### `npm run eject`
+* Node.js
+* Express.js
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Database
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* MongoDB
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Current Project Status
 
-## Learn More
+The project is currently under development.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Completed work includes:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* Requirement analysis
+* System design
+* Database design
+* Core frontend interfaces
+* Initial backend setup
 
-### Code Splitting
+Work currently in progress:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* API integration
+* Payment gateway implementation
+* System testing and debugging
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Project Structure
 
-### Making a Progressive Web App
+```text
+Legal-Connect-Pro/
+├── frontend/
+├── backend/
+├── database/
+├── documentation/
+└── README.md
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## Future Improvements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+* Enhanced client communication features
+* Notification system
+* Advanced reporting and analytics
+* Improved payment processing features
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Academic Information
 
-### `npm run build` fails to minify
+This repository contains the development work carried out for the Legal Connect Pro final project submission.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The repository will continue to be updated as development and testing progress.
